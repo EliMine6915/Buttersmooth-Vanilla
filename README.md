@@ -1,6 +1,7 @@
 #Buttersmooth Vanilla
 
 [![Join us on Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/zYS7hcHHq4)
+[![Discord](https://discord-badge.vercel.app/api/server/1363591847271993455)](https://discord.gg/zYS7hcHHq4)
 
 ## Modlist
 ### Performance
